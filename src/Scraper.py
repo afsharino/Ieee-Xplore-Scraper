@@ -42,6 +42,7 @@ def scraper( publish_year:int, page_number:int) -> list:
             print(f'Titles for year {publish_year} and page {page_number} scraped successfully :)')
             
         else:
+            print(f'failed to get titles :()')
             print(f'list of titles: {titles}')
             
         return titles
@@ -68,6 +69,7 @@ def write(args:tuple) -> None:
     # write titles to file
     with open(f'../Scraped titles/titles_{publish_year}.txt', 'a') as f:
         titles = titles_2021 if publish_year == 2021 else titles_2022
+        
         for key in titles.keys():
             for title in titles[key]:
                 f.write(f"{title.strip()}\n")
