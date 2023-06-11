@@ -1,0 +1,84 @@
+Weakly Supervised Convolutional Neural Network for Automatic Gleason Grading of Prostate Cancer
+Design and Simulation of a Low PDP Full Adder by Combining Majority Function and TGDI Technique in CNTFET Technology
+Multi-Task Transformer for Stock Market Trend Prediction
+Robat-e-Beheshti: A Persian Wake Word Detection Dataset for Robotic Purposes
+A Novel Deep Learning Framework For Image KeyPoint Description
+Deep Deterministic Policy Gradient in Acoustic to Articulatory Inversion
+Analysis of Address Lifespans in Bitcoin and Ethereum
+LPCNet: Lane detection by lane points correction network in challenging environments based on deep learning
+MultiPath ViT OCR: A Lightweight Visual Transformer-based License Plate Optical Character Recognition
+Segmentation of Hard Exudates in Retina Fundus Images Using BCDU-Net
+Sensitivity Reliability Analysis of Power Distribution Networks Using Fuzzy Logic
+Classification of COVID-19 and Nodule in CT Images using Deep Convolutional Neural Network
+Word-level Persian Lipreading Dataset
+A parallel CNN-BiGRU network for short-term load forecasting in demand-side management
+Weakly Supervised Learning in a Group of Learners with Communication
+Attention Transfer in Self-Regulated Networks for Recognizing Human Actions from Still Images
+Load Frequency Control of Geothermal Power Plant Incorporated Two-Area Hydro-Thermal System with AC-DC Lines
+Automated Person Identification from Hand Images using Hierarchical Vision Transformer Network
+Sum Rate Analysis and Power Allocation in Massive MIMO Systems with Power Constraints
+Low-Cost and Hardware Efficient Implementation of Pooling Layers for Stochastic CNN Accelerators
+Introducing E4MT and LMBNC: Persian pre-processing utilities
+Soccer Video Event Detection Using Metric Learning
+Hate Sentiment Recognition System For Persian Language
+A 2D-CNN Architecture for Improving the Classification Accuracy of an Electronic Nose with Different Sensor Positions
+Avid: A Variational Inference Deliberation For Meta-Learning
+Flying Base Station 3D Positioning, Considering Path Loss, Coverage Area, and QoS Constraints
+Improving performance of multi-label classification using ensemble of feature selection and outlier detection
+An interactive user groups recommender system based on reinforcement learning
+FAST: FPGA Acceleration of Neural Networks Training
+An Efficient Planning Method for Autonomous Navigation of a Wheeled-Robot based on Deep Reinforcement Learning
+Span-prediction of Unknown Values for Long-sequence Dialogue State Tracking
+Stock Market Prediction Using Multi-Objective Optimization
+IranITJobs2021: a Dataset for Analyzing Iranian Online IT Job Advertisements Collected Using a New Crowdsourcing-based Dataset Gathering Process
+Cross-project Defect Prediction with An Enhanced Transfer Boosting Algorithm
+Spatial-channel attention-based stochastic neighboring embedding pooling and long-short-term memory for lung nodules classification
+Deep Inside Tor: Exploring Website Fingerprinting Attacks on Tor Traffic in Realistic Settings
+Designing a High Performance and High-Profit P2P Energy Trading System Using a Consortium Blockchain Network
+A Review on Secure Data Storage and Data Sharing Technics in Blockchain-based IoT Healthcare Systems
+Recommending Popular Locations Based on Collected Trajectories
+Optimal PMU Placement Considering Reliability of Measurement System in Smart Grids
+Persis: A Persian Font Recognition Pipeline Using Convolutional Neural Networks
+Android Malware Detection Using Supervised Deep Graph Representation Learning
+A Survey on Semi-Automated and Automated Approaches for Video Annotation
+SAT Based Analogy Evaluation Framework For Persian Word Embeddings
+MCRS-SAE: multi-criteria recommender system based on sparse autoencoder
+Improved TrustChain for Lightweight Devices
+Dual Memory Structure for Memory Augmented Neural Networks for Question-Answering Tasks
+A Novel Deformable Registration Method for Cerebral Magnetic Resonance Images
+A Rule-Based Language for Configurable N-way Model Matching
+DevRanker: An Effective Approach to Rank Developers for Bug Report Assignment
+InfOnto : An ontology for fashion influencer marketing based on Instagram
+City Intersection Clustering and Analysis Based on Traffic Time Series
+Robustness Scan of Digital Circuits Using Convolutional Neural Networks
+Financial Market Prediction Using Deep Neural Networks with Hardware Acceleration
+PeQA: A Massive Persian Question-Answering and Chatbot Dataset
+The Effect of Network Environment on Traffic Classification
+Extreme Gradient Boosting (XGBoost) Regressor and Shapley Additive Explanation for Crop Yield Prediction in Agriculture
+FAHP-OF: A New Method for Load Balancing in RPL-based Internet of Things (IoT)
+Intelligent Interpretation of Frequency Response Signatures to Diagnose Radial Deformation in Transformer Windings Using Artificial Neural Network
+A Hybrid Echo State Network for Hypercomplex Pattern Recognition, Classification, and Big Data Analysis
+Fatty Liver Level Recognition Using Particle Swarm optimization (PSO) Image Segmentation and Analysis
+Solving the influence maximization problem by using entropy and weight of edges
+Pyramid Transformer for Traffic Sign Detection
+Joint ADC-less Analog Demodulator and Decoder for Extended Binary (8, 4, 4) Hamming Channel Code
+An Automated Visual Defect Segmentation for Flat Steel Surface Using Deep Neural Networks
+Detection of Parkinso’s disease using Convolutional Neural Networks and Data Augmentation with SPECT images
+Taguchi Design of Experiments Application in Robust sEMG Based Force Estimation
+An optimal workflow scheduling method in cloud-fog computing using three-objective Harris-Hawks algorithm
+A Simple Low Cost Approach to Detect Hand Gesture Based on Software Event Camera Emulation
+TCAR: Thermal and Congestion-Aware Routing Algorithm in a Partially Connected 3D Network on Chip
+Damage Detection After the Earthquake Using Sentinel-1 and 2 Images and Machine Learning Algorithms (Case Study: Sarpol-e Zahab Earthquake)
+IR-LPR: A Large Scale Iranian License Plate Recognition Dataset
+GAP: Fault tolerance Improvement of Convolutional Neural Networks through GAN-aided Pruning
+Zone-Based Federated Learning in Indoor Positioning
+Real-Time Vehicle Detection and Classification in UAV imagery Using Improved YOLOv5
+Degarbayan-SC: A Colloquial Paraphrase Farsi Subtitles Dataset
+Experimental evaluation and comparison of anti-pattern detection tools by the gold standard
+Facial Mask Wearing Condition Detection Using SSD MobileNetV2
+Maximum diffusion of news in social media with the approach of reducing the search space
+Averting Mode Collapse for Generative Zero-Shot Learning
+Semantic Segmentation Using Region Proposals and Weakly-Supervised Learning
+Deep Learning Based Multi-Classifier System for Crack Segmentation in Civil Structure Images
+No-Reference Video Quality Assessment by Deep Feature Maps Relations
+P2DF: Privacy-Preserving Data Fusion Protocol

@@ -1,0 +1,90 @@
+Energy Efficient Power Allocation in MIMO-NOMA Systems with ZF Receiver Beamforming in Multiple Clusters
+A Robust Network for Embedded Traffic Sign Recognition
+A Systematic Embedded Software Design Flow for Robotic Applications
+Extracting Major Topics of COVID-19 Related Tweets
+The Process Of Multi-Class Fake News Dataset Generation
+Predicting cascading failure with machine learning methods in the interdependent networks
+Analyzing the Impact of COVID-19 on Economy from the Perspective of User’s Reviews
+Two-step thermal-aware routing algorithm in 3D NoC
+Emotion Recognition In Persian Speech Using Deep Neural Networks
+To Transfer or Not To Transfer (TNT): : Action Recognition in Still Image Using Transfer Learning
+Detecting Non-Spherical Clusters Using Modified CURE Algorithm
+Investigating the Behavior of Generation Z Customers in Online Banking Services (Case Study of a Bank of Iran)
+Speech Emotion Recognition Using Multi-Layer Sparse Auto-Encoder Extreme Learning Machine and Spectral/Spectro-Temporal Features with New Weighting Method for Data Imbalance
+Towards Study of Research Topics Evolution in Artificial Intelligence based on Topic Embedding
+ISUR: Iris Segmentation based on UNet and ResNet
+Predicting the Recovery Rate of COVID-19 Using a Novel Hybrid Method
+ExaAEC: A New Multi-label Emotion Classification Corpus in Arabic Tweets
+Optimization of quantum secret sharing communication using corresponding bits
+Improving the classification of high dimensional class-imbalanced data using the Chaos particle swarm optimization with Levy Flight
+Evaluating the Impact of Traveling on COVID-19 Prevalence and Predicting the New Confirmed Cases According to the Travel Rate Using Machine Learning: A Case Study in Iran
+SASIAF, A Scalable Accelerator for Seismic Imaging on Amazon AWS FPGAs
+Chaotic multi-population ABC algorithm based on memory and levy flight for solving dynamic job shop scheduling problems
+Identifying novel disease genes based on protein complexes and biological features
+Multi-Layer Collaborative Graph with BPR Similarity Embedding for Recommender System
+WBT-GAN: Wavelet based Generative Adversarial Network for Texture Synthesis
+PowerLinear Activation Functions with application to the first layer of CNNs
+I-ACS: An Improved Ant Colony System to Solve the Time-Dependent Orienteering Problem
+Semi-automatic Detection of Persian Stopwords using FastText Library
+A Self-Configurable Model for Cloud Resource Allocation
+Islamic geometric algorithms: A survey
+Deep Learning Feature Extraction for COVID19 Detection Algorithm using Computerized Tomography Scan
+Hybrid Flow-Rule Placement Method of Proactive and Reactive in SDNs
+Lightweight Local Transformer for COVID-19 Detection Using Chest CT Scans
+Intelligent Rule Extraction in Complex Event Processing Platform for Health Monitoring Systems
+Cloud Service Composition Using Genetic Algorithm and Particle Swarm Optimization
+Joint optimization of 3D deployment and trajectory of FBSs to reduce power consumption under backhaul constraints
+Automatic Infrared-Based Volume and Mass Estimation System for Agricultural Products : Along with Major Geometrical Properties
+Age Estimation Based on Facial Images Using Hybrid Features and Particle Swarm Optimization
+Efficient Object Detection using Deep Reinforcement Learning and Capsule Networks
+Improvement of CluStream Algorithm Using Sliding Window for the Clustering of Data Streams
+TestSmart: A Tool for Automated Generation of Effective Test Cases for Smart Contracts
+Instance Selection from Skewed Class Distributions by Using the multi-objective optimizer
+Blind image quality assessment based on Multi-resolution Local Structures
+A Weighted TF-IDF-based Approach for Authorship Attribution
+A Graph-based Feature Selection using Class-Feature Association Map (CFAM)
+Hybrid navigation based on GPS data and SIFT-based place recognition using Biologically-inspired SLAM
+An Overview of Regression Methods in Early Prediction of Movie Ratings
+Parallel Local Feature Selection and High Dimensional Data Classification
+Automatic Detection and Risk Assessment of Session Management Vulnerabilities in Web Applications
+Effect of Tissue Excitation in Breast Cancer Detection from Ultrasound RF Time Series: Phantom studies
+GroupRec: Group Recommendation by Numerical Characteristics of Groups in Telegram
+Driving Violation Detection Using Vehicle Data and Environmental Conditions
+Divide and Conquer Approach to Long Genomic Sequence Alignment
+EEMC: Energy Efficient Multi-Clustering Using Grey Wolf Optimizer in WSNs
+ROCT-Net: A new ensemble deep convolutional model with improved spatial resolution learning for detecting common diseases from retinal OCT images
+A Genetic-based Fusion Approach of Persian and Universal Phonetic Results for Spoken Language Identification
+Data Clustering Using Chimp Optimization Algorithm
+An intelligent linguistic error detection approach to automated diagnosis of Dyslexia disorder in Persian speaking children
+FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset
+Enhanced Principal-Curve based Classifiers for Time-Series Label Prediction
+T-Rank: Graph Data Analytics for Urban Traffic Modeling
+Virtual machine consolidation using SLA-aware genetic algorithm placement for data centers with non-stationary workloads
+Artificial Intelligence applications addressing different aspects of the Covid-19 crisis and key technological solutions for future epidemics control
+ICCKE 2021 Program Committee
+ICCKE 2021 Committees
+A novel hybrid DMHS-GMDH algorithm to predict COVID-19 pandemic time series
+A Novel Method for Fake News Detection Based on Propagation Tree
+A Language-Independent Approach to Classification of Textual File Fragments: Case Study of Persian, English, and Chinese Languages
+Improving LoRaWAN Scalability for IoT Applications using Context Information
+A Formalism for Specifying Capability-based Task Allocation in MAS
+An Effective Connectomics Approach for Diagnosing ADHD using Eyes-open Resting-state MEG
+An influence maximization algorithm based on community detection using topological features
+Investigating of topological characteristics of the Iranian railway network: A network science approach
+CSI-Based Human Activity Recognition using Convolutional Neural Networks
+A New Time Series Approach in Churn Prediction with Discriminatory Intervals
+Vision-Based Obstacle Avoidance in Drone Navigation using Deep Reinforcement Learning
+Automatic Generation of XACML Code using Model-Driven Approach
+ExaASC: A General Target-Based Stance Detection Corpus in Arabic Language
+A New Hypercube Variant: Pruned Shuffle Connected Cube
+Blind Load-Balancing Algorithm using Double-Q- learning in the Fog Environment
+Improvement of Credit Scoring by LSTM Autoencoder Model
+Anomaly Detection in File Fragment Classification of Image File Formats
+A New Inter-layer Similarity metric for link prediction in multilayer networks
+Bipartite link prediction improvement using the effective utilization of edge betweenness centrality
+Improving Soft Error Reliability of FPGA-based Deep Neural Networks with Reduced Approximate TMR
+Optimization Resource Allocation in NOMA-based Fog Computing with a Hybrid Algorithm
+SCDS: A Secure Clustering Protocol Using Dempster-Shafer Theory for VANET in Smart City
+Virtual Network Embedding based on Univariate Distribution Estimation
+Graph Representation Learning Towards Patents Network Analysis
+Impossible differential and zero-correlation linear cryptanalysis of Marx, Marx2, Chaskey and Speck32
