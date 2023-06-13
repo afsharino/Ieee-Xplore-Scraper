@@ -1,2 +1,2 @@
 # Ieee-Xplore-Scraper
-scrape ieee iccke journal topics
+scrape iccke journal topics
