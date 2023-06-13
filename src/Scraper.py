@@ -8,15 +8,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import warnings
 warnings.filterwarnings('ignore')
 
-# Import libraries
-from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import warnings
-warnings.filterwarnings('ignore')
-
 def scraper( publish_year:int, page_number:int) -> list:
     print(f'Scraper called...')
     print(f'Start Scraping for year {publish_year} and page {page_number}')
